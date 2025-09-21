@@ -1,0 +1,20 @@
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\obj\Debug\EngineGDI.csproj.AssemblyReference.cache
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\obj\Debug\EngineGDI.Properties.Resources.resources
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\obj\Debug\EngineGDI.csproj.GenerateResource.cache
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\obj\Debug\EngineGDI.csproj.CoreCompileInputs.cache
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\bin\Debug\EngineGDI.exe.config
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\bin\Debug\EngineGDI.exe
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\bin\Debug\EngineGDI.pdb
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\obj\Debug\EngineGDI.exe
+C:\Users\juani\source\repos\EngineGDI\EngineGDI\obj\Debug\EngineGDI.pdb
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\bin\Debug\EngineGDI.exe.config
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\bin\Debug\EngineGDI.exe
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\bin\Debug\EngineGDI.pdb
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\obj\Debug\EngineGDI.csproj.AssemblyReference.cache
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\obj\Debug\EngineGDI.Properties.Resources.resources
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\obj\Debug\EngineGDI.csproj.GenerateResource.cache
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\obj\Debug\EngineGDI.csproj.CoreCompileInputs.cache
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\obj\Debug\EngineGDI.exe
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\obj\Debug\EngineGDI.pdb
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\bin\Debug\sound.wav
+C:\Juan\UADE\IOO\Ejemplos\EngineGDI - Base\EngineGDI\bin\Debug\test.png
