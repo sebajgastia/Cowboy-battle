@@ -23,10 +23,6 @@ namespace EngineGDI
                 {
                     Engine.PlaySound("sound.wav");
                 }
-                 if (Engine.IsKeyPressed(Keys.Space))
-                {
-                    Engine.PlaySound("sound.wav");
-                }
 
                 if (Engine.IsKeyDown(Keys.Left))
                     x -= 5;
